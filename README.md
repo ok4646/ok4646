@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center" width="50">
 
-<!--
-**ok4646/ok4646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
+
+Happy Coding! 😊
+
+<div align="center">
+
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
